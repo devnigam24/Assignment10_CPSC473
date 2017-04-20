@@ -13,3 +13,7 @@ npm install --save-dev babel-preset-es2015
 npm install --save-dev browserify babelify watchify
 
 npm install mime
+
+npm install --save-dev jquery
+npm install --save-dev crypto-js
+npm install --save-dev moment

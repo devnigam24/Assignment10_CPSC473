@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -731,3 +732,11 @@
   </body>
 </html>
 
+=======
+# Chatterbox Final Application
+
+CPSC473 Spring 2017 Assignment 10 
+
+
+
+>>>>>>> 168ccf4467a9eb2ee70935b70b771914e1bb6b63
